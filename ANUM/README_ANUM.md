@@ -81,28 +81,6 @@ Result: Click to place A, B, C, D... Z, AA, AB...
 
 ---
 
-## Technical Details
-
-### Text Specifications
-
-- **Text Type**: MTEXT (Multi-line Text)
-- **Alignment**: Middle Center (DXF code 71 = 5)
-- **Layer**: Uses current active layer
-- **Style**: Uses current text style
-- **Height**: User-defined
-
-### Alphabet Sequencing
-
-The tool automatically handles alphabet progression:
-- Single letters: A → B → C ... → Z
-- Double letters: Z → AA → AB → AC ... → AZ → BA
-- Triple letters: ZZ → AAA → AAB ... (continues infinitely)
-
-### Requirements
-- AutoCAD 2010 or later
-- Visual LISP extensions (automatically loaded)
-
----
 
 ## Troubleshooting
 
@@ -129,3 +107,4 @@ MIT License - Copyright (c) 2026 Er. Ajay Bhattarai
 ---
 
 *Made for the AutoCAD Community*
+
