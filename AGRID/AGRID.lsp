@@ -109,7 +109,7 @@
   (setq txt_h (getdist "\nEnter Text Height for Labels: "))
 
   (initget 7) 
-  (setq bub_offset (getdist "\nEnter Offset Distance for Grid Bubbles (as shown in image): "))
+  (setq bub_offset (getdist "\nEnter Offset Distance for Grid Bubbles: "))
 
   ;; ------------------------------------------------------------------------
   ;; 5. CALCULATIONS
@@ -194,4 +194,5 @@
 )
 
 (princ "\nAGRID command loaded. Type AGRID to run.")
+
 (princ)
