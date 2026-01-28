@@ -1,6 +1,10 @@
 # Batch Plot Rectangles (BPR) for AutoCAD
 
-**Batch Plot Rectangles (BPR)** is a powerful AutoLISP tool designed to automate the process of printing multiple drawings from a single Model Space. It detects closed rectangular polylines (frames) and automatically plots the content within them to separate PDF files.
+![AutoCAD](https://img.shields.io/badge/AutoCAD-Compatible-red?style=flat-square)
+![AutoLISP](https://img.shields.io/badge/Language-AutoLISP-blue?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
+
+A is a powerful AutoLISP tool designed to automate the process of printing multiple drawings from a single Model Space. It detects closed rectangular polylines (frames) and automatically plots the content within them to separate PDF files.
 
 This tool is ideal for Civil Engineers and Architects who arrange multiple sheet frames in Model Space and need a quick way to export them all at once without setting up individual Layout tabs.
 
@@ -55,5 +59,6 @@ The code is currently set to use **ISO A3** and **DWG To PDF.pc3**. You can modi
 * [GitHub Profile](https://github.com/ajaybhattarai-123)
 
 ---
+
 
 *Disclaimer: This script is provided as-is. Always test on a backup of your drawing first.*
