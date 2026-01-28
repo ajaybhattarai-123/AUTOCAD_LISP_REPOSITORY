@@ -10,7 +10,8 @@ A powerful AutoLISP tool for generating professional variable-spacing grid syste
 
 ## Video Tutorial
 
-The tutorial link for this AGRID command is: https://youtube.com/shorts/viJT3GOuqM8
+Watch the tool in action:
+[![Watch the video]( https://youtube.com/shorts/viJT3GOuqM8/0.jpg)]( https://youtube.com/shorts/viJT3GOuqM8)
 
 ---
 
@@ -102,3 +103,4 @@ MIT License - Copyright (c) 2026 Er. Ajay Bhattarai
 ---
 
 *Made for the AutoCAD Community*
+
