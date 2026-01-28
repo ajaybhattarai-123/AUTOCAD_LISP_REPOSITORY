@@ -38,6 +38,13 @@ You can directly go to the folders by clicking the links below.
 
 ---
 
+### 3. BPR - Batch Printing From Model
+**Description**: Print Many Title Blocks in just single click with one command.
+
+📁 [Click here to go to BPT folder](./BPT/)
+
+---
+
 ---
 
 ## How to Use
