@@ -44,7 +44,7 @@ You can directly go to the folders by clicking the links below.
 📁 [Click here to go to BPT folder](./BPT/)
 
 ---
-### 4. FLC Fast Length(Peremeter) Calculation
+### 4. FLC - Fast Length(Peremeter) Calculation
 **Description**: Find the peremeter of line, polylines, splines, 3D Poly, 2D Poly etc in just 1 click.
 
 📁 [Click here to go to BPT folder](./FLC/)
