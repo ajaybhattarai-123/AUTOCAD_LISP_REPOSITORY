@@ -52,6 +52,14 @@ You can directly go to the folders by clicking the links below.
 ---
 ---
 
+### 5. QA - Quick Area
+**Description**: Find the Area very quickly in Unit² ; m² ; feet²
+
+📁 [Click here to go to QA folder](./QA/)
+
+---
+---
+
 ## How to Use
 
 1. **Browse** the tool you need from the list above
